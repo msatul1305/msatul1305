@@ -1,5 +1,6 @@
-### Hi, Atul Kumar Agrawal here 👋
-
+<h1 align="center"> Hi, Atul Kumar Agrawal here 👋</h1>
+<h3 align="center">Competitive Coder | Web Developer | Android Developer | Open Source Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msatul1305" alt="msatul1305" /> </p>
 <!--
 **msatul1305/msatul1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  😄 Pronouns: 
  ⚡ Fun fact:  -->
