@@ -6,7 +6,7 @@
  ⚡ Fun fact:  -->
 
 - 🔭 I’m currently working on **JavaScript**
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS, Angular** 
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with **React**
 - 💬 Ask me about **HTML, CSS, JS, C, C++, Java and Python.**
